@@ -14,3 +14,21 @@
 
 
 ## Week 2 (12/10/2026)
+
+Following on from the video, I've noted some suggested Dashboard Pages
+
+. Page 1:
+
+Total steps. Total calories. Average sleep. Athlete leaderboard. KPI cards
+
+. Page 2: Activity Analysis:
+
+Steps over time. Active vs sedentary minutes. Distance travelled. Calories burned
+
+. Page 3: 
+
+Sleep Analysis. Daily sleep duration. Average sleep by athlete. Sleep ranking
+
+. Page 4: 
+
+Heart Rate & Detailed Metrics. Heart rate trends. Hourly activity patterns. Athlete comparison filters
