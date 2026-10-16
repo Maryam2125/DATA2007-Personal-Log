@@ -32,3 +32,13 @@ Sleep Analysis. Daily sleep duration. Average sleep by athlete. Sleep ranking
 . Page 4: 
 
 Heart Rate & Detailed Metrics. Heart rate trends. Hourly activity patterns. Athlete comparison filters
+
+. This week we had a second group call and discussed our CSV files, bringing together our key findings from the various csv files
+
+. We then generated ideas for the dashboard using the 'crazy 8' method from block release
+
+. We each fed back our best ideas and have decided that next week we'll drill into software requirements
+
+. So we've got our ideas and will now individually comes up with at least 5 requirements each so that next week we can bring them together and define what we want our dashboard to include and any files we want to drop
+
+. This week helped establish our plans and ideas which we will start to formulate over the coming weeks
