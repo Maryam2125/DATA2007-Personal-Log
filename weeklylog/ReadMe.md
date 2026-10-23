@@ -41,4 +41,15 @@ Heart Rate & Detailed Metrics. Heart rate trends. Hourly activity patterns. Athl
 
 . So we've got our ideas and will now individually comes up with at least 5 requirements each so that next week we can bring them together and define what we want our dashboard to include and any files we want to drop
 
-. This week helped establish our plans and ideas which we will start to formulate over the coming weeks
+. This week helped establish our plans and ideas which we will start to formulate 
+
+## Week 3 (19/10/2026)
+
+. This week discussed various things for our project:
+
+ - The minimum vaible product - 5 functions that can be displayed in the dashboard, we've assigned one function each and we will commit to our branch during the week and will commit to main branch closer to the 28th October
+ - Streamlit vs PowerBI - we've decided that Streamlit will be more ideal for us
+ - EDA summary - Sam has written a first draft and we will all review and add anything we feel needs to be included and from there we'll have the EDA
+ - Requirements overview - we discussed our requirements and have written up around 26 requirements collectively, these are in an Excel for us to see
+ - Video - I've put in a meeting on Wednesday morning to record the video and show our final dashboard
+ - Dashboard - we've decided to try our best with the limited time we have and see what we can come up with as long as we reach the minimum vaible product
