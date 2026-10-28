@@ -53,3 +53,17 @@ Heart Rate & Detailed Metrics. Heart rate trends. Hourly activity patterns. Athl
  - Requirements overview - we discussed our requirements and have written up around 26 requirements collectively, these are in an Excel for us to see
  - Video - I've put in a meeting on Wednesday morning to record the video and show our final dashboard
  - Dashboard - we've decided to try our best with the limited time we have and see what we can come up with as long as we reach the minimum vaible product
+
+## Week 4 (26/10/2026)
+
+. This week I focused on developing and integrating my Daily Goal Drill-Down feature into our Fitbit Streamlit dashboard. The feature analyses users' progress towards daily goals for steps, calories, activity minutes, and sleep. It displays key performance indicators, highlights the best and worst days, shows trends over time, and provides a detailed breakdown of daily goal achievement.
+
+. In addition to developing the functionality, I worked on integrating my code into the shared team dashboard. This involved rebasing my local branch onto a teammate's branch to obtain the latest Streamlit project structure, resolving file path issues, moving my code into the correct project location, and ensuring the dashboard ran successfully within the team's shared environment.
+
+. One of the main challenges this week was integrating my work into the team dashboard. Although my feature worked independently, I had to learn how to rebase my branch, resolve file path issues, and adapt my code to fit the existing project structure. This took longer than expected but helped me better understand collaborative development.
+
+. This week improved my understanding of Git and team-based software development. I learned how to rebase branches, resolve conflicts, manage project structures, and push changes safely to a shared repository. I also gained more experience using Streamlit to create user-friendly dashboard components.
+
+. I successfully integrated my Daily Goal Drill-Down feature into the dashboard and ensured it matched the overall style of the application. I was also able to solve several technical issues independently, including repository setup, data path errors, and Git branch management.
+
+. I would like to become more confident with Git workflows so that I can spend less time troubleshooting version-control issues. I would also like to further improve the efficiency and design of my code by making better use of the existing project architecture.
