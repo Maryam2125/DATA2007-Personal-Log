@@ -67,3 +67,13 @@ Heart Rate & Detailed Metrics. Heart rate trends. Hourly activity patterns. Athl
 . I successfully integrated my Daily Goal Drill-Down feature into the dashboard and ensured it matched the overall style of the application. I was also able to solve several technical issues independently, including repository setup, data path errors, and Git branch management.
 
 . I would like to become more confident with Git workflows so that I can spend less time troubleshooting version-control issues. I would also like to further improve the efficiency and design of my code by making better use of the existing project architecture.
+
+## Week 5 (02/11/2026)
+
+. This week the TAG team came together and pushed everything to the main branch. We ensured no conflicts and no issues in the code after which we reviewed the dashboard together at block release.
+
+. We're all happy with how its looking and how we worked together as a team to bring this nicely.
+
+. Our plan is to record our video explaining the 6 min video ready for submission this week.
+
+. I've contributed by ensruing everyone has a part to say in the video and I've put in the meeting at a time that aligns with everyone. 
