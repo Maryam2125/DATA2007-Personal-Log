@@ -77,3 +77,33 @@ Heart Rate & Detailed Metrics. Heart rate trends. Hourly activity patterns. Athl
 . Our plan is to record our video explaining the 6 min video ready for submission this week.
 
 . I've contributed by ensruing everyone has a part to say in the video and I've put in the meeting at a time that aligns with everyone. 
+
+## Week 6 (09/11/2026)
+
+. This week I rounded up the TAG assignment task, I looked at my peers TAG videos and wrote some key feedback below:
+
+. Group 3 Feedback
+
+The Fitbit Analysis dashboard was well structured and easy to navigate, with a consistent colour scheme that gave the report a professional appearance. The use of filters for User ID, date range, and weekday demonstrates good dashboard design, as it allows users to explore the data interactively and focus on specific insights. The visualisations clearly highlight differences in activity levels and total steps between users, making key trends easy to identify. One area for improvement would be to reduce the amount of information displayed in the activity intensity table at once, as it appears slightly crowded and could benefit from additional spacing or visual emphasis on the most important metrics. The video was also clear and appropriately focused on explaining the dashboard's functionality and findings.
+
+. Team Jayl's Fitbit Dashboard Feedback
+
+Team Jayl delivered a professional and well-organised presentation, with the PowerPoint providing a clear introduction to the project and helping to guide the audience through the dashboard and findings. It was particularly positive to see the team using GitHub Projects to manage tasks, demonstrating good project management practices and effective collaboration throughout the development process. The dashboard itself was clean and easy to navigate, with a simple layout and ranked bar chart that effectively highlighted differences in average daily steps between users. A potential area for improvement would be to incorporate additional visualisations or key insights directly on the main dashboard page to provide a broader overview of activity trends before users drill down into individual metrics.
+
+. Group 7 Feedback
+
+Group 7 presented a creative and engaging concept with their BitFit Awards dashboard, which helped make the analysis more relatable and interesting for the audience. A particular strength of the video was the inclusion of behind-the-scenes development work, such as demonstrating the project structure, code organisation, data preparation process, and application setup. This provided a strong insight into the technical work that went into building the dashboard and showcased the team's understanding of the development lifecycle, rather than focusing solely on the final product. The visual award system was a unique way of presenting user achievements and added personality to the dashboard. One area for improvement could be to spend slightly more time highlighting the key data insights generated from the analysis so that the audience can more clearly connect the awards to meaningful Fitbit activity trends.
+
+. Group 9 Feedback
+
+Group 9 produced a well-designed and comprehensive dashboard that effectively explored multiple aspects of the Fitbit dataset, including activity, sleep, weight, calories, and BMI metrics. The dashboard used a consistent colour scheme and a good mix of KPI cards, trend charts, and heatmaps, making it easy to identify patterns in user activity and performance over time. The video walkthrough was clear and professional, and although the presenters did not have their cameras on, the narration and dashboard demonstration kept the audience engaged and provided a thorough explanation of the project's functionality. One area for improvement would be the overall length of the presentation. At just over 8 minutes, the video felt slightly longer than necessary, and some sections could have been condensed to maintain audience engagement and place greater emphasis on the key insights and conclusions from the analysis. A shorter, more focused presentation would have made the overall delivery even stronger.
+
+. Group 8 Feedback
+
+Group 8 developed a highly interactive dashboard with a wide range of filters and visualisations that allowed users to explore the Fitbit data from multiple perspectives. The inclusion of user selection, date range controls, data granularity options, and multiple dashboard pages (activity, steps, heart rate, sleep, and weight) demonstrated a strong focus on user experience and functionality. The dark theme gave the dashboard a modern and professional appearance, while the variety of charts helped present the data in an engaging and accessible way. The video effectively showcased the dashboard's features and interactivity; however, one area for improvement would be to spend more time discussing the key insights and conclusions generated from the data, ensuring that the analysis receives as much attention as the technical functionality.
+
+. My own presentation review following on from looking at all the other presentations
+
+Reviewing the other groups dashboards highlighted the variety of approaches that can be taken when analysing the Fitbit dataset. Many groups focused on strong visual design, interactivity, and clear presentation of key metrics, while others effectively showcased their project management processes, development workflow, and technical implementation. These presentations reinforced the importance of balancing dashboard functionality with clear actionable insights.
+
+Compared to several of the dashboards presented, our solution aimed to provide a deeper level of user exploration through features such as a daily drill-down view, wellness calendar tracker, and a wider range of filters and analytical functions. Seeing the creative ideas used by other teams, such as awards systems, detailed activity heatmaps, and highly interactive dashboards, provided useful inspiration and highlighted the value of tailoring data visualisations to the intended audience. Overall, the exercise demonstrated that successful dashboard projects require not only effective analysis and technical skills, but also thoughtful design and clear communication of insights.
